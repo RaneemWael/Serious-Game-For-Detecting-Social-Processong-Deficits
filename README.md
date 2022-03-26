@@ -10,9 +10,10 @@ Using a decision based making game, where the player walks through a forest and 
 It was built as a webGL using Unity. 
 
 ## How to run:
-- 1: Unity
-  - Download the project as a zip to your computer.
-  - From Unity Hub, import the project to your workspace.
-  - Once opened, simply play it from the tool bar.
-- 2: Online
-  - Find it as this link: https://raneemwael.itch.io/serious-game-social-deficits
+1: Unity
+   - Download the project as a zip to your computer.
+   - From Unity Hub, import the project to your workspace.
+   - Once opened, simply play it from the tool bar.
+
+2: Online
+   - Find it as this link: https://raneemwael.itch.io/serious-game-social-deficits
