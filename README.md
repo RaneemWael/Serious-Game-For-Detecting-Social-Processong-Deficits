@@ -19,6 +19,6 @@ It was built as a webGL using Unity.
    - Find it as this link: https://raneemwael.itch.io/serious-game-social-deficits
 
 3. Windows:
-   - https://drive.google.com/file/d/1hkkC_1NJW7F-J86ppuPXP5LlDZE6HFzr/view?usp=drivesdk
+   - https://drive.google.com/file/d/1G7XB4XBAqsyc3KhEQ8Pd_-QAL5kRUFnB/view?usp=drivesdk
    - Download game setup .exe file to your computer.
    - Install it and play!
